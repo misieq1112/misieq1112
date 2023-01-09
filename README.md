@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @misieq1112
-- 👀 I’m interested in beating horse
-- 🌱 I’m currently learning eating horse
-- 💞️ I’m looking to collaborate on bed
-- 📫 How to reach me d,
+- 👀 I’m interested in frontend development
+- 🌱 I’m currently learning how to use javascript
 
 <!---
 misieq1112/misieq1112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
